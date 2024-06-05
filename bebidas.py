@@ -1,0 +1,1 @@
+bebidas = {'Refrigerante': 5.00, 'Suco': 4.00, 'Água': 3.00, 'Cerveja': 6.00, 'Vinho': 8.00, 'Whisky': 1000.00, 'cuzinho': 2}
