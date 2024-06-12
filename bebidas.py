@@ -1,1 +1,13 @@
-bebidas = {'Refrigerante': 5.00, 'Suco': 4.00, 'Água': 3.00, 'Cerveja': 6.00, 'Vinho': 8.00, 'Whisky': 1000.00, 'cuzinho': 2}
+itens = ['Refrigerante',
+        'Suco',
+        'Água',
+        'Cerveja',
+        'Vinho',
+        'Whisky']
+
+valor = [5.00,
+        4.00,
+        3.00,
+        6.00,
+        8.00,
+        1000.00]
