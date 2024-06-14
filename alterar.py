@@ -35,4 +35,3 @@ def alterar(dicionario, nome_arquivo): # altera um produto
         if opcao != "s": # se a opção não for 's'
             salvararquivo(dicionario, nome_arquivo + ".json") # salva o arquivo
             break
->>>>>>> Stashed changes
